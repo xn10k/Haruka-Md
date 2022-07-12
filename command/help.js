@@ -24,6 +24,7 @@ ${mundur}
 
 *BOT INFO*
  • Creator : ${ownerName}
+ • OWNER NUMBER : wa.me/6288902229533
  • Bot Name : ${botName}
  • Time : ${jam}
  • Date : ${tanggal}
